@@ -1,0 +1,12 @@
+7zip
+CascadiaMono-NF
+dark
+git
+libreoffice
+python
+revouninstaller
+rufus
+starship
+sudo
+tixati
+innounp
